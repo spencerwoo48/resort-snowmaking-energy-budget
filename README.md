@@ -17,8 +17,8 @@ Snowmaking is only possible when the temperature is at or below 27 degrees Fahre
 
 ### Environment Setup
 
-Anaconda Navigator 2.7.0
-Jupyter Notebook 7.5.7
+Anaconda Navigator 2.7.0  
+Jupyter Notebook 7.5.7  
 Python 3.13.9
 
 ```
